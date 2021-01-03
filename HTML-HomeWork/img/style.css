@@ -1,0 +1,35 @@
+body {
+    background-color: linen;
+}
+h2{
+    color: blue;
+}
+div {
+
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    margin-left:2%;
+
+    border:vertical-alight;
+    
+    
+    }
+    h1 {
+
+        color: red;
+        
+        color: #FF0000;
+        
+        color: rgb(255, 0, 0);
+        
+        }
+    
+    span{
+        font-weight: bold;
+    }
+    
+    h1{
+        text-align: center;
+    }
+     
